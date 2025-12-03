@@ -1,0 +1,242 @@
+[
+  {
+    "id": "harry",
+    "name": "Harry Potter",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/harry.png",
+    "gender": "male",
+    "hairColor": "black",
+    "hairType": "messy",
+    "hasGlasses": true,
+    "hasHat": false
+  },
+  {
+    "id": "hermione",
+    "name": "Hermione Granger",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/hermione.png",
+    "gender": "female",
+    "hairColor": "brown",
+    "hairType": "curly",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "ron",
+    "name": "Ron Weasley",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/ron.png",
+    "gender": "male",
+    "hairColor": "red",
+    "hairType": "straight",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "dumbledore",
+    "name": "Albus Dumbledore",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/dumbledore.png",
+    "gender": "male",
+    "hairColor": "white",
+    "hairType": "long",
+    "hasGlasses": true,
+    "hasHat": true
+  },
+  {
+    "id": "snape",
+    "name": "Severus Snape",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/snape.png",
+    "gender": "male",
+    "hairColor": "black",
+    "hairType": "straight",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "mcgonagall",
+    "name": "Minerva McGonagall",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/mcgonagall.png",
+    "gender": "female",
+    "hairColor": "grey",
+    "hairType": "bun",
+    "hasGlasses": true,
+    "hasHat": true
+  },
+  {
+    "id": "hagrid",
+    "name": "Rubeus Hagrid",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/hagrid.png",
+    "gender": "male",
+    "hairColor": "brown",
+    "hairType": "long",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "draco",
+    "name": "Draco Malfoy",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/draco.png",
+    "gender": "male",
+    "hairColor": "blonde",
+    "hairType": "slicked",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "voldemort",
+    "name": "Lord Voldemort",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/voldemort.png",
+    "gender": "male",
+    "hairColor": "bald",
+    "hairType": "none",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "sirius",
+    "name": "Sirius Black",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/sirius.png",
+    "gender": "male",
+    "hairColor": "black",
+    "hairType": "wavy",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "lupin",
+    "name": "Remus Lupin",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/lupin.png",
+    "gender": "male",
+    "hairColor": "brown",
+    "hairType": "straight",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "ginny",
+    "name": "Ginny Weasley",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/ginny.png",
+    "gender": "female",
+    "hairColor": "red",
+    "hairType": "straight",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "fred",
+    "name": "Fred Weasley",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/fred.png",
+    "gender": "male",
+    "hairColor": "red",
+    "hairType": "straight",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "george",
+    "name": "George Weasley",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/george.png",
+    "gender": "male",
+    "hairColor": "red",
+    "hairType": "straight",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "neville",
+    "name": "Neville Longbottom",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/neville.png",
+    "gender": "male",
+    "hairColor": "brown",
+    "hairType": "straight",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "luna",
+    "name": "Luna Lovegood",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/luna.png",
+    "gender": "female",
+    "hairColor": "blonde",
+    "hairType": "wavy",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "bellatrix",
+    "name": "Bellatrix Lestrange",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/bellatrix.png",
+    "gender": "female",
+    "hairColor": "black",
+    "hairType": "curly",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "molly",
+    "name": "Molly Weasley",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/molly.png",
+    "gender": "female",
+    "hairColor": "red",
+    "hairType": "wavy",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "arthur",
+    "name": "Arthur Weasley",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/arthur.png",
+    "gender": "male",
+    "hairColor": "red",
+    "hairType": "straight",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "dobby",
+    "name": "Dobby",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/dobby.png",
+    "gender": "male",
+    "hairColor": "bald",
+    "hairType": "none",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "umbridge",
+    "name": "Dolores Umbridge",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/umbridge.png",
+    "gender": "female",
+    "hairColor": "brown",
+    "hairType": "curly",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "cedric",
+    "name": "Cedric Diggory",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/cedric.png",
+    "gender": "male",
+    "hairColor": "brown",
+    "hairType": "straight",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "cho",
+    "name": "Cho Chang",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/cho.png",
+    "gender": "female",
+    "hairColor": "black",
+    "hairType": "straight",
+    "hasGlasses": false,
+    "hasHat": false
+  },
+  {
+    "id": "lucius",
+    "name": "Lucius Malfoy",
+    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/lucius.png",
+    "gender": "male",
+    "hairColor": "blonde",
+    "hairType": "long",
+    "hasGlasses": false,
+    "hasHat": false
+  }
+]
