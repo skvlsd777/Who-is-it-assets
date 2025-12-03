@@ -1,0 +1,20 @@
+[
+  {
+    "id": "harry-potter",
+    "title": "Harry Potter",
+    "description": "Ученики и преподаватели Хогвартса",
+    "thumbnail": "universes/harry-potter/thumbnail.png"
+  },
+  {
+    "id": "marvel",
+    "title": "Marvel",
+    "description": "Герои Marvel",
+    "thumbnail": "universes/marvel/thumbnail.png"
+  },
+  {
+    "id": "shrek",
+    "title": "Shrek",
+    "description": "Сказочный мир Шрека",
+    "thumbnail": "universes/shrek/thumbnail.png"
+  }
+]
