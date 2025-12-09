@@ -2,7 +2,7 @@
   {
     "id": "harry",
     "name": "Harry Potter",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/harry.png",
+    "imageURL": "universes/harry-potter/images/harry.png",
     "gender": "male",
     "hairColor": "black",
     "hairType": "messy",
@@ -12,7 +12,7 @@
   {
     "id": "hermione",
     "name": "Hermione Granger",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/hermione.png",
+    "imageURL": "universes/harry-potter/images/hermione.png",
     "gender": "female",
     "hairColor": "brown",
     "hairType": "curly",
@@ -22,7 +22,7 @@
   {
     "id": "ron",
     "name": "Ron Weasley",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/ron.png",
+    "imageURL": "universes/harry-potter/images/ron.png",
     "gender": "male",
     "hairColor": "red",
     "hairType": "straight",
@@ -32,7 +32,7 @@
   {
     "id": "dumbledore",
     "name": "Albus Dumbledore",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/dumbledore.png",
+    "imageURL": "universes/harry-potter/images/dumbledore.png",
     "gender": "male",
     "hairColor": "white",
     "hairType": "long",
@@ -42,7 +42,7 @@
   {
     "id": "snape",
     "name": "Severus Snape",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/snape.png",
+    "imageURL": "universes/harry-potter/images/snape.png",
     "gender": "male",
     "hairColor": "black",
     "hairType": "straight",
@@ -52,7 +52,7 @@
   {
     "id": "mcgonagall",
     "name": "Minerva McGonagall",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/mcgonagall.png",
+    "imageURL": "universes/harry-potter/images/mcgonagall.png",
     "gender": "female",
     "hairColor": "grey",
     "hairType": "bun",
@@ -62,7 +62,7 @@
   {
     "id": "hagrid",
     "name": "Rubeus Hagrid",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/hagrid.png",
+    "imageURL": "universes/harry-potter/images/hagrid.png",
     "gender": "male",
     "hairColor": "brown",
     "hairType": "long",
@@ -72,7 +72,7 @@
   {
     "id": "draco",
     "name": "Draco Malfoy",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/draco.png",
+    "imageURL": "universes/harry-potter/images/draco.png",
     "gender": "male",
     "hairColor": "blonde",
     "hairType": "slicked",
@@ -82,7 +82,7 @@
   {
     "id": "voldemort",
     "name": "Lord Voldemort",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/voldemort.png",
+    "imageURL": "universes/harry-potter/images/voldemort.png",
     "gender": "male",
     "hairColor": "bald",
     "hairType": "none",
@@ -92,7 +92,7 @@
   {
     "id": "sirius",
     "name": "Sirius Black",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/sirius.png",
+    "imageURL": "universes/harry-potter/images/sirius.png",
     "gender": "male",
     "hairColor": "black",
     "hairType": "wavy",
@@ -102,7 +102,7 @@
   {
     "id": "lupin",
     "name": "Remus Lupin",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/lupin.png",
+    "imageURL": "universes/harry-potter/images/lupin.png",
     "gender": "male",
     "hairColor": "brown",
     "hairType": "straight",
@@ -112,7 +112,7 @@
   {
     "id": "ginny",
     "name": "Ginny Weasley",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/ginny.png",
+    "imageURL": "universes/harry-potter/images/ginny.png",
     "gender": "female",
     "hairColor": "red",
     "hairType": "straight",
@@ -122,7 +122,7 @@
   {
     "id": "fred",
     "name": "Fred Weasley",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/fred.png",
+    "imageURL": "universes/harry-potter/images/fred.png",
     "gender": "male",
     "hairColor": "red",
     "hairType": "straight",
@@ -132,7 +132,7 @@
   {
     "id": "george",
     "name": "George Weasley",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/george.png",
+    "imageURL": "universes/harry-potter/images/george.png",
     "gender": "male",
     "hairColor": "red",
     "hairType": "straight",
@@ -142,7 +142,7 @@
   {
     "id": "neville",
     "name": "Neville Longbottom",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/neville.png",
+    "imageURL": "universes/harry-potter/images/neville.png",
     "gender": "male",
     "hairColor": "brown",
     "hairType": "straight",
@@ -152,7 +152,7 @@
   {
     "id": "luna",
     "name": "Luna Lovegood",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/luna.png",
+    "imageURL": "universes/harry-potter/images/luna.png",
     "gender": "female",
     "hairColor": "blonde",
     "hairType": "wavy",
@@ -162,7 +162,7 @@
   {
     "id": "bellatrix",
     "name": "Bellatrix Lestrange",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/bellatrix.png",
+    "imageURL": "universes/harry-potter/images/bellatrix.png",
     "gender": "female",
     "hairColor": "black",
     "hairType": "curly",
@@ -172,7 +172,7 @@
   {
     "id": "molly",
     "name": "Molly Weasley",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/molly.png",
+    "imageURL": "universes/harry-potter/images/molly.png",
     "gender": "female",
     "hairColor": "red",
     "hairType": "wavy",
@@ -182,7 +182,7 @@
   {
     "id": "arthur",
     "name": "Arthur Weasley",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/arthur.png",
+    "imageURL": "universes/harry-potter/images/arthur.png",
     "gender": "male",
     "hairColor": "red",
     "hairType": "straight",
@@ -192,7 +192,7 @@
   {
     "id": "dobby",
     "name": "Dobby",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/dobby.png",
+    "imageURL": "universes/harry-potter/images/dobby.png",
     "gender": "male",
     "hairColor": "bald",
     "hairType": "none",
@@ -202,7 +202,7 @@
   {
     "id": "umbridge",
     "name": "Dolores Umbridge",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/umbridge.png",
+    "imageURL": "universes/harry-potter/images/umbridge.png",
     "gender": "female",
     "hairColor": "brown",
     "hairType": "curly",
@@ -212,7 +212,7 @@
   {
     "id": "cedric",
     "name": "Cedric Diggory",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/cedric.png",
+    "imageURL": "universes/harry-potter/images/cedric.png",
     "gender": "male",
     "hairColor": "brown",
     "hairType": "straight",
@@ -222,7 +222,7 @@
   {
     "id": "cho",
     "name": "Cho Chang",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/cho.png",
+    "imageURL": "universes/harry-potter/images/cho.png",
     "gender": "female",
     "hairColor": "black",
     "hairType": "straight",
@@ -232,7 +232,7 @@
   {
     "id": "lucius",
     "name": "Lucius Malfoy",
-    "imageURL": "https://skvlsd777.github.io/who-is-it-assets/universes/harry-potter/images/lucius.png",
+    "imageURL": "universes/harry-potter/images/lucius.png",
     "gender": "male",
     "hairColor": "blonde",
     "hairType": "long",
